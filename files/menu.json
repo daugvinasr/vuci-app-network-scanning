@@ -1,0 +1,7 @@
+{
+    "network/network-scanning": {
+        "title": "Network Scanning",
+        "view": "vuci-app-network-scanning",
+        "index": 60
+    }
+}
